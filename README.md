@@ -13,4 +13,11 @@ Predecir la demanda de productos de construcción para el análisis inteligente 
 - **Excel:** para crear el dataset.
 - **Python(Pandas, Matplotlib, sklearn):** para limpieza y modelado de datos.
 - **Google Colab:** para ejecutar la limpieza y correr los modelos.
-- **Power BI:**: para elaborar el Dashboard.
+- **Power BI:** para elaborar el Dashboard.
+
+## Mas información:
+
+- [Dashboard interactivo.](https://app.powerbi.com/view?r=eyJrIjoiZGFiMTg4ODAtZGQ0ZS00MDhhLTkyNWYtYjkwYjQ4ZTllMTQxIiwidCI6IjI1NzM5YzY1LWM3OWYtNDAxYy1iYWIwLWQ3NTVlOTBhNjY2MiIsImMiOjR9)
+- [Revista digital.](https://mqdistribuidora.my.canva.site/)
+
+
