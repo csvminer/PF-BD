@@ -22,8 +22,6 @@ Predecir la demanda de productos de construcción para el análisis inteligente 
 
 
 <br>
-<div>
-  <center>
-    <u><i><p>bd.est - v1.0.0</p></i></u>
-  </center>
-</div>
+<center>
+    <strong><u><em>02/2025 - v1.0.0</em></u></strong>
+</center>
