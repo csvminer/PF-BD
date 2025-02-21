@@ -21,3 +21,9 @@ Predecir la demanda de productos de construcción para el análisis inteligente 
 - [Revista digital.](https://mqdistribuidora.my.canva.site/)
 
 
+<br>
+<div>
+  <center>
+    <u><i><p>bd.est - v1.0.0</p></i></u>
+  </center>
+</div>
