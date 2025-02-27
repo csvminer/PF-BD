@@ -23,5 +23,5 @@ Predecir la demanda de productos de construcción para el análisis inteligente 
 
 ## Versión:
 
-***02/2025 - v1.0.0***
+***03/2025 - v2.0.0***
 
