@@ -21,7 +21,7 @@ Predecir la demanda de productos de construcción para el análisis inteligente 
 - [Revista digital.](https://mqdistribuidora.my.canva.site/)
 
 
-## Versión:
+## Versiones:
 
-***03/2025 - v2.0.0***
-
+- Versión actual: 03/2025 - v2.0.0 en desarrollo
+- [Versiones anteriores](https://github.com/csvminer/practicas-basicas/tree/main/MQVersiones)
