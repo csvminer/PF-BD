@@ -23,5 +23,5 @@ Predecir la demanda de productos de construcción para el análisis inteligente 
 
 ## Versiones:
 
-- Versión actual: 03/2025 - v2.0.0 en desarrollo
+- Versión actual: 03/2025 - v1.1.0 en desarrollo
 - [Versiones anteriores](https://github.com/csvminer/practicas-basicas/tree/main/MQVersiones)
